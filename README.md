@@ -1,7 +1,7 @@
 # Joyce Ellen Nery Teles
 Hi there, I'm Joyce! As student and technology enthusiast I'm looking forward to enroll in fullstack development and DevSecOps. I like to explore new techniques and knowledge, as well as perfecting them. 
 
-- :computer: Software Engenieer Jr
+- :computer: Software Engenieer Pl
 - :city_sunset: São Paulo - SP
 - 🔭 Currently working on Java Projects, DevSecOps Projects and some college projects.
 - 👯 Always open to new possibilities and collaboration on any kind of projects.
